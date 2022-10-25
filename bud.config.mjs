@@ -29,12 +29,12 @@ export default async (app) => {
     /**
      * Proxy origin (`WP_HOME`)
      */
-    .proxy("http://example.test")
+    .proxy("http://localhost:8888")
 
     /**
      * Development origin
      */
-    .serve("http://0.0.0.0:3000")
+    .serve("http://localhost:3000")
 
     /**
      * URI of the `public` directory

@@ -41,6 +41,7 @@
   "require": {
     "php": "^7.4|^8.0",
     "garrettweinberg/sage-bootstrap5-navwalker": "^1.3",
+    "generoi/sage-woocommerce": "^1.0",
     "roots/acorn": "^2.1"
   },
   "require-dev": {
