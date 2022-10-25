@@ -1,4 +1,4 @@
-#Sage Bootstrap 5 Starter Theme
+# Sage Bootstrap 5 Starter Theme
 
 Roots Sage 10 Starter theme with Tailwind swapped out for Bootstrap.
 
